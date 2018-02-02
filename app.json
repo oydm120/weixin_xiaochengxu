@@ -6,7 +6,7 @@
     "page/about/index",
     "page/component/index",
     "page/component/pages/view/view",
-    "page/component/pages/scroll-view/scroll-view",
+    "page/component/pages/scroll-view/scroll-view",·
     "page/component/pages/swiper/swiper",
     "page/component/pages/text/text",
     "page/component/pages/icon/icon",
@@ -67,7 +67,7 @@
   ],
   "window": {
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "欧阳冬明",
+    "navigationBarTitleText": "首页",
     "navigationBarBackgroundColor": "#2CB7B6",
     "backgroundColor": "#F8F8F8"
   },

@@ -1,7 +1,5 @@
 {
-  "window": {
     "enablePullDownRefresh": true,
     "navigationBarTitleText":"首页",
     "backgroundTextStyle":"dark"
-  }
 }
